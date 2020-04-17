@@ -1,0 +1,48 @@
+/* .more {
+  display: none;
+} */
+
+.threedots {
+  font-weight: 600;
+  background-color: transparent;
+  border: none;
+  margin-top: 2px;
+}
+
+.threedotdiv {
+  /* align-self: center;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  justify-self: center;
+  justify-items: center; */
+  text-align: center;
+}
+.edit a {
+  width: 100%;
+  height: 80%;
+}
+.delete a {
+  width: 100%;
+  height: 80%;
+}
+
+li {
+  list-style: none;
+}
+
+.edit {
+  display: inline;
+  padding: 3px;
+}
+
+.delete {
+  display: inline;
+  padding: 3px;
+}
+
+/* ul {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+} */
